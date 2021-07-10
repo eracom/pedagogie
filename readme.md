@@ -1,6 +1,7 @@
 ---
 layout: page
 title: README
+permalink: index.html
 ---
 
 Ce document rassemble des informations sur les approches pédagogiques:
