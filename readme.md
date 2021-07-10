@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: README
+---
 
 Ce document rassemble des informations sur les approches pédagogiques:
 

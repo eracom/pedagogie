@@ -1,3 +1,8 @@
+---
+layout: page
+title: Travail de groupe
+---
+
 # Travail de groupe
 
 Problèmes typiques du travail en groupes.
