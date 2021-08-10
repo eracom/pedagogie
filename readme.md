@@ -1,6 +1,6 @@
 ---
 layout: page
-title: README
+title: Pédagogie
 permalink: index.html
 ---
 
