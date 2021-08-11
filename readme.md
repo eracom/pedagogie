@@ -15,6 +15,3 @@ Ce document rassemble des informations sur les approches pédagogiques:
 - Méthodes collaboratives
 - Mémorisation, techniques pour apprendre 
 
-Visible en ligne à cette adresse:
-
-[ms-studio.github.io/pedagogie](https://ms-studio.github.io/pedagogie/)

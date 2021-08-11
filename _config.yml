@@ -2,3 +2,13 @@ remote_theme: coursweb/jk-theme
 title: Pédagogie
 description: Ressources en pédagogie.
 lang: fr-FR
+chapters:
+ - title: Infos IMD
+   url: https://code.eracom-pedagogique.ch/infos-profs-imd/
+ - title: Pédagogie
+   url: https://code.eracom-pedagogique.ch/pedagogie/
+footer_col_1: <ul class="contact-list">
+  <li>Eracom, Lausanne</li>
+  <li>2021</li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/eracom/pedagogie">Lien Github</a></li></ul>
+footer_col_3: Ressources en pédagogie.
