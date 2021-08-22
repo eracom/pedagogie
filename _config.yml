@@ -2,6 +2,7 @@ remote_theme: coursweb/jk-theme
 title: Pédagogie
 description: Ressources en pédagogie.
 lang: fr-FR
+markdown: GFM
 chapters:
  - title: Infos IMD
    url: https://code.eracom-pedagogique.ch/infos-profs-imd/
