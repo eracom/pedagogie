@@ -21,6 +21,8 @@ Pour un cours se déroulant sur une journée complète, le mode de fonctionnemen
 - des présentations et critiques des travaux en cours.
 - des moments didactiques où l’enseignant-e présente des outils, concepts, références.
 
+## Le format "Design Studio" 
+
 Voici comment Jon Kolko décrit les particularités de ce fonctionnement: 
 
 > The idea of a studio as a learning model is usually new to students. It’s not something familiar, because most grade schools and high schools focus on a “butts in seats” model of teaching, where students sit in desks and watch a teacher at the front of the room. Because it’s a new way of thinking, students need to learn how to behave in a studio. (...)
@@ -54,4 +56,3 @@ Un enseignant donnant le cours "Projet interface":
 >
 > Ça a permis de varier les activités et les projets. Pas eu trop de peine à garder l’attention + motivation des élèves avec ce format. 
 
-## Le format "Design Studio" 
