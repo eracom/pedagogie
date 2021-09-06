@@ -39,11 +39,11 @@ Voici quelques retours d'expérience d'enseignement sur une période longue.
 
 Un enseignant de l'eracom, donnant le cours "Projet création graphique", s'exprime ainsi:
 
-> j'ai tâché à faire une première partie chaque semaine de "blabla" sur des sujets du design graphique en montrant aussi des références. Puis je leur demandais de me résumer ce qu'on avait vu la semaine précédente. Cette année je vais changer encore la formule en leur demandant chaque semaine à d'autres de présenter des références graphiques qui les intéressent et d'expliquer pourquoi. Ceci peut prendre une a deux période, mais je trouve que c'est constructif et lance bien la journée. 
+> j'ai tâché à faire une première partie chaque semaine de "théorie" sur des sujets du design graphique en montrant aussi des références. Puis je leur demandais de me résumer ce qu'on avait vu la semaine précédente. Cette année je vais changer la formule en demandant chaque semaine à d'autres de présenter des références graphiques qui les intéressent et d'expliquer pourquoi. Ceci peut prendre une a deux périodes, mais je trouve que c'est constructif et lance bien la journée. 
 >
 > Souvent je propose de faire un point sur les travaux devant tout le monde en début d'après-midi, histoire de les impliquer dans les projets des autres et de refaire un sas d'accueil après la pause de midi.
 >
-> Je vais cette année faire des "projets éclairs" sur une journée ou demi-journée. Mon but est d'avoir 3 gros projets notés et au moins trois petits éclair qui formeront une 4e note en moyenne des évals de chacun réunies.
+> Je vais cette année faire des "projets éclairs" sur une journée ou demi-journée. Mon but est d'avoir 3 gros projets notés et au moins trois petits "éclair" qui formeront une 4e note en moyenne des évals de chacun réunies.
 
 Un enseignant donnant le cours "Projet interface":
 
