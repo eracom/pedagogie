@@ -5,9 +5,9 @@ title: Travail de groupe
 
 ## Utilité du travail de groupe
 
-Selon Zimmermann (s'appuyant sur les travaux de Meirieu et Pichon-Rivière), la méthode pédagogique la plus efficace serait: "un cours magistral suivi d'un *groupe informel*".
+Selon Jean-Luc Zimmermann (s'appuyant sur les travaux de Meirieu et Pichon-Rivière), la méthode pédagogique la plus efficace serait: "un cours magistral suivi d'un *groupe informel*".
 
-> La transmission optimale des savoir s'obtient par une communication de données brutes, d'informations du genrs cours ex-cathedra, documents, cours en ligne, etc. suivie *impérativement* par une *appropriation groupale* de ce savoir qui sera «copensé» par le groupe. (Zimmermann 2016: 34)
+> La transmission optimale des savoirs s'obtient par une communication de données brutes, d'informations du genre cours ex-cathedra, documents, cours en ligne, etc. suivie *impérativement* par une *appropriation groupale* de ce savoir qui sera «copensé» par le groupe. (Zimmermann 2016: 34)
 
 ## Problèmes typiques
 
