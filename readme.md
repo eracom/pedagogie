@@ -1,10 +1,4 @@
----
-layout: page
-title: Pédagogie
-permalink: index.html
----
-
-Ce document rassemble des informations sur les approches pédagogiques:
+Ce micro-site rassemble des informations sur les approches pédagogiques:
 
 - Procéder à une évaluation
 - Utiliser Microsoft Forms pour produire des questionnaires
