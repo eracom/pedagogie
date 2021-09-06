@@ -3,6 +3,10 @@ layout: page
 title: Ressources
 ---
 
+## Livres
+
+Voir: [Livres pédagogie](https://code.eracom-pedagogique.ch/livres-imd/pedagogie.html)
+
 ## Podcasts
 
 - [The Motivated Classroom](https://www.liamprinter.com/podcast.html) : A weekly podcast hosted by Liam Printer talking all things education, language teaching, motivation and engagement.
