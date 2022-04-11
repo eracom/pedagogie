@@ -10,15 +10,15 @@ Ressources pour l’évaluation par les élèves.
 
 Source: [Mattes & Danquin (2015)](img/evaluation-par-eleves/p165-feedback-qualite.jpg).
 
-## Différentes méthodes
-
-Le feedback des élèves ne doit pas obligatoirement passer par un **questionnaire écrit**. Il est possible de recourir à un format de feedback de groupe:
-
-- Via un *Grupo Operativo* (méthode proposée par Jean-Luc Zimmermann dans *Gérer un groupe de formation et d’enseignement*).
-- Via la *Feedback Method* de DasArts ([voir le site dédié](https://cours-web.ch/feedback/)). Vous pouvez par exemple faire une session de 15 minutes qui combine *Affirmative Feedback*, *Perspectives Feedback*, et *Personal Letter*.
-- Via un format de *Rétrospective Agile* ([voir site dédié](https://cours-web.ch/agile/)).
-
 ## Exemples de formulaires
+
+### Quelques formulaires utilisés à l'Eracom
+
+- Un formulaire simple, composé de 5 questions ([télécharger le PDF](img/evaluation-par-eleves/eracom-eval-cours-5q.pdf))
+- Le même formulaire de 5 questions, au format [questionnaire Microsoft Forms que vous pouvez dupliquer](https://forms.office.com/Pages/ShareFormPage.aspx?id=CLlqkPkEgEq6nIdaNud7wWhMFfhVGJdGpfZSv8KAoIlUM0pHMURLMkNWN1pVSjBZTjU1VVoyU0hSNy4u&sharetoken=go4wbDOB9zMjWHsv2tO0).
+- Un formulaire très complet, composé de 19 questions ([télécharger le PDF](img/evaluation-par-eleves/eracom-eval-cours-19q.pdf)).
+
+### Autres exemples de formulaires
 
 Un questionnaire propisé par Eric Mazur (*Peer Instruction*, 2014). C’est un questionnaire que l’auteur soumet à sa classe “après environ quatre semaines de cours”:
 
@@ -28,11 +28,13 @@ Un formulaire proposé par Mattes & Danquin (2015), pour l'évaluation d'un cour
 
 ![](img/evaluation-par-eleves/p166-feedback-qualite.jpg)
 
-L'UNIL [propose différents modèles](https://www.unil.ch/cse/fr/home/menuinst/nos-prestations/evaluer-votre-enseignement.html).
+Le Centre de soutien à l'enseignement (CSE) de l'UNIL [propose différents modèles](https://www.unil.ch/cse/fr/home/menuinst/nos-prestations/evaluer-votre-enseignement.html). Ci-dessous, deux modèles: Questionnaire de mi-semestre, et Questionnaire qualitatif:
 
-Un [formulaire Forms que vous pouvez dupliquer](https://forms.office.com/Pages/ShareFormPage.aspx?id=CLlqkPkEgEq6nIdaNud7wWhMFfhVGJdGpfZSv8KAoIlUM0pHMURLMkNWN1pVSjBZTjU1VVoyU0hSNy4u&sharetoken=go4wbDOB9zMjWHsv2tO0).
+![UNIL: Questionnaire de mi-semestre](img/evaluation-par-eleves/unil-questionnaire-mi-semestre.gif)
 
-Questionnaire proposé par John Hattie & Shirley Clarke, dans *Visible Learning Feedback*. Cela se résume à trois questions (p. 126):
+![UNIL: Questionnaire qualitatif](img/evaluation-par-eleves/unil-questionnaire-mi-semestre.gif)
+ 
+Questionnaire proposé par Hattie & Clarke (2019) dans *Visible Learning Feedback*. Cela se résume à trois questions (p. 126):
 
 - Has your learning improved so far in Year N? How? 
 - How has your teacher helped you to learn? 
@@ -44,8 +46,19 @@ Un autre exemple cité dans le même livre (p. 130), où l'enseignant-e pose deu
 - What could I have done to help you understand better? 
 
 
+
+
+## Autres méthodes
+
+Le feedback des élèves ne doit pas obligatoirement passer par un **questionnaire écrit**. Il est possible de recourir à un format de feedback de groupe:
+
+- Via un *Grupo Operativo* (méthode proposée par Jean-Luc Zimmermann dans *Gérer un groupe de formation et d’enseignement*).
+- Via la *Feedback Method* de DasArts ([voir le site dédié](https://cours-web.ch/feedback/)). Vous pouvez par exemple faire une session de 15 minutes qui combine *Affirmative Feedback*, *Perspectives Feedback*, et *Personal Letter*.
+- Via un format de *Rétrospective Agile* ([voir site dédié](https://cours-web.ch/agile/)).
+
 ## Références
 
 - Document dans Teams ([ERACOM_ID_Teams > Documents > Ressources enseignement > Evaluation par élèves](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EtenecP5pgNOmfPPpNGEsjoBkG7XO-fe6wAz8H3LY5pxDg?e=XbOk07))
 - Mazur, E. (2014). *Peer Instruction. Une méthode éprouvée d’enseignement interactif*. Presses polytechniques et universitaires romandes.
 - Mattes, W. & Danquin, R. (2015). *52 méthodes : Pratiques pour enseigner*. Schöningh Verlag, Réseau Canopé. 
+- Hattie, J. & Clarke, S. (2019). *Visible Learning: Feedback*. Routledge.
