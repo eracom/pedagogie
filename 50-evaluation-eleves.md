@@ -16,8 +16,7 @@ Source: [Mattes & Danquin (2015)](img/evaluation-par-eleves/p165-feedback-qualit
 
 ![](img/evaluation-par-eleves/eracom-eval-cours-5q.png)
 
-- Un formulaire simple composé de 5 questions ([télécharger le PDF](img/evaluation-par-eleves/eracom-eval-cours-5q.pdf))
-- Le même formulaire de 5 questions, au format [questionnaire Microsoft Forms que vous pouvez dupliquer](https://forms.office.com/Pages/ShareFormPage.aspx?id=CLlqkPkEgEq6nIdaNud7wWhMFfhVGJdGpfZSv8KAoIlUM0pHMURLMkNWN1pVSjBZTjU1VVoyU0hSNy4u&sharetoken=go4wbDOB9zMjWHsv2tO0).
+- Un formulaire simple composé de 5 questions ([télécharger le PDF](img/evaluation-par-eleves/eracom-eval-cours-5q.pdf)) / [Microsoft Forms](https://forms.office.com/Pages/ShareFormPage.aspx?id=CLlqkPkEgEq6nIdaNud7wWhMFfhVGJdGpfZSv8KAoIlUM0pHMURLMkNWN1pVSjBZTjU1VVoyU0hSNy4u&sharetoken=go4wbDOB9zMjWHsv2tO0).
 - Un formulaire très complet, composé de 19 questions ([télécharger le PDF](img/evaluation-par-eleves/eracom-eval-cours-19q.pdf)).
 
 ### Formulaires proposés par l'UNIL
@@ -59,7 +58,6 @@ Le feedback des élèves ne doit pas obligatoirement passer par un **questionnai
 
 ## Références 📚
 
-- Document dans Teams ([ERACOM_ID_Teams > Documents > Ressources enseignement > Evaluation par élèves](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EtenecP5pgNOmfPPpNGEsjoBkG7XO-fe6wAz8H3LY5pxDg?e=XbOk07))
-- Mazur, E. (2014). *Peer Instruction. Une méthode éprouvée d’enseignement interactif*. Presses polytechniques et universitaires romandes.
-- Mattes, W. & Danquin, R. (2015). *52 méthodes : Pratiques pour enseigner*. Schöningh Verlag, Réseau Canopé. 
 - Hattie, J. & Clarke, S. (2019). *Visible Learning: Feedback*. Routledge.
+- Mattes, W. & Danquin, R. (2015). *52 méthodes : Pratiques pour enseigner*. Schöningh Verlag, Réseau Canopé.
+- Mazur, E. (2014). *Peer Instruction. Une méthode éprouvée d’enseignement interactif*. Presses polytechniques et universitaires romandes.
