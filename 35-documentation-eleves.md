@@ -4,7 +4,9 @@ title: Documentation par les élèves
 permalink: documentation-eleves.html
 ---
 
-Une activité pédagogique consistant à encadrer la création d'un support d'apprentissage (ou de révision) par les élèves.
+## Activité: création d'un support d'apprentissage (ou de révision) par les élèves
+
+Dans cette activité, l'enseignant-e se situe dans un *strict rôle de mentor*, annoncé clairement au début : pointer les erreurs factuelles à remédier, demander des explications ou compléments et assurer le respect des délais.
 
 ## Exemples d'application
 
