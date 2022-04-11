@@ -20,7 +20,7 @@ Source: [Mattes & Danquin (2015)](img/evaluation-par-eleves/p165-feedback-qualit
 
 ### Autres exemples de formulaires
 
-Un questionnaire propisé par Eric Mazur (*Peer Instruction*, 2014). C’est un questionnaire que l’auteur soumet à sa classe “après environ quatre semaines de cours”:
+Un questionnaire proposé par Eric Mazur (📚*Peer Instruction*, 2014). C’est un questionnaire que l’auteur soumet à sa classe “après environ quatre semaines de cours”:
 
 ![](img/evaluation-par-eleves/questionnaire-peer-instruction.jpg) 
 
@@ -34,7 +34,7 @@ Le Centre de soutien à l'enseignement (CSE) de l'UNIL [propose différents mod�
 
 ![UNIL: Questionnaire qualitatif](img/evaluation-par-eleves/unil-questionnaire-mi-semestre.gif)
  
-Questionnaire proposé par Hattie & Clarke (2019) dans *Visible Learning Feedback*. Cela se résume à trois questions (p. 126):
+Questionnaire proposé par Hattie & Clarke (2019) dans 📚*Visible Learning Feedback*. Cela se résume à trois questions (p. 126):
 
 - Has your learning improved so far in Year N? How? 
 - How has your teacher helped you to learn? 
@@ -53,10 +53,10 @@ Un autre exemple cité dans le même livre (p. 130), où l'enseignant-e pose deu
 Le feedback des élèves ne doit pas obligatoirement passer par un **questionnaire écrit**. Il est possible de recourir à un format de feedback de groupe:
 
 - Via un *Grupo Operativo* (méthode proposée par Jean-Luc Zimmermann dans *Gérer un groupe de formation et d’enseignement*).
-- Via la *Feedback Method* de DasArts ([voir le site dédié](https://cours-web.ch/feedback/)). Vous pouvez par exemple faire une session de 15 minutes qui combine *Affirmative Feedback*, *Perspectives Feedback*, et *Personal Letter*.
+- Via la 🔁 *Feedback Method* de DasArts ([voir le site dédié](https://cours-web.ch/feedback/)). Vous pouvez par exemple faire une session de 15 minutes qui combine *Affirmative Feedback*, *Perspectives Feedback*, et *Personal Letter*.
 - Via un format de *Rétrospective Agile* ([voir site dédié](https://cours-web.ch/agile/)).
 
-## Références
+## Références 📚
 
 - Document dans Teams ([ERACOM_ID_Teams > Documents > Ressources enseignement > Evaluation par élèves](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EtenecP5pgNOmfPPpNGEsjoBkG7XO-fe6wAz8H3LY5pxDg?e=XbOk07))
 - Mazur, E. (2014). *Peer Instruction. Une méthode éprouvée d’enseignement interactif*. Presses polytechniques et universitaires romandes.
