@@ -29,7 +29,7 @@ Le Centre de soutien à l'enseignement (CSE) de l'UNIL [propose différents mod�
 
 ### Autres exemples de formulaires
 
-Un questionnaire proposé par Eric Mazur (📚*Peer Instruction*, 2014). C’est un questionnaire que l’auteur soumet à sa classe “après environ quatre semaines de cours”:
+Un questionnaire proposé par Eric Mazur (📚*Peer Instruction*, 2014). C’est un questionnaire très ouvert que l’auteur soumet à sa classe “après environ quatre semaines de cours”:
 
 ![](img/evaluation-par-eleves/questionnaire-peer-instruction.jpg) 
 
@@ -53,7 +53,7 @@ Un autre exemple cité dans le même livre (p. 130), où l'enseignant-e pose deu
 Le feedback des élèves ne doit pas obligatoirement passer par un **questionnaire écrit**. Il est possible de recourir à un dispositif de **feedback de groupe**. Exemples:
 
 - Via un *Grupo Operativo* (méthode proposée par Jean-Luc Zimmermann dans *Gérer un groupe de formation et d’enseignement*).
-- Via les 🔁 *Feedback Methods* de DasArts ([voir le site dédié](https://cours-web.ch/feedback/)). Vous pouvez par exemple faire une session de 15 minutes qui combine *Affirmative Feedback*, *Perspectives Feedback*, et *Personal Letter*.
+- Via les 🔁 *Feedback Methods* de DasArts ([voir le site dédié](https://cours-web.ch/feedback/)). Vous pouvez par exemple faire une session de 10 à 15 minutes qui combine *Affirmative Feedback*, *Perspectives Feedback*, et *Personal Letter*.
 - Via un format de *Rétrospective Agile* ([voir site dédié](https://cours-web.ch/agile/)).
 
 ## Références 📚
