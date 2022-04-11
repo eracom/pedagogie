@@ -4,7 +4,7 @@ title: Documentation par les élèves
 permalink: documentation-eleves.html
 ---
 
-Activité: la documentation créée par les élèves
+Une activité pédagogique consistant à encadrer la création d'un support d'apprentissage (ou de révision) par les élèves.
 
 ## Exemples d'application
 
