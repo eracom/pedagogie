@@ -25,7 +25,7 @@ Le Centre de soutien à l'enseignement (CSE) de l'UNIL [propose différents mod�
 
 ![UNIL: Questionnaire de mi-semestre](img/evaluation-par-eleves/unil-questionnaire-mi-semestre.gif)
 
-![UNIL: Questionnaire qualitatif](img/evaluation-par-eleves/unil-questionnaire-mi-semestre.gif)
+![UNIL: Questionnaire qualitatif](img/evaluation-par-eleves/unil-questionnaire-qualitatif.gif)
 
 ### Autres exemples de formulaires
 
