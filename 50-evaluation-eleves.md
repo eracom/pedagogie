@@ -51,7 +51,7 @@ Un autre exemple cité dans le même livre (p. 130), où l'enseignant-e pose deu
 
 ## Autres méthodes de feedback
 
-Le feedback des élèves ne doit pas obligatoirement passer par un **questionnaire écrit**. Il est possible de recourir à un dispositif de **feedback de groupe**:
+Le feedback des élèves ne doit pas obligatoirement passer par un **questionnaire écrit**. Il est possible de recourir à un dispositif de **feedback de groupe**. Exemples:
 
 - Via un *Grupo Operativo* (méthode proposée par Jean-Luc Zimmermann dans *Gérer un groupe de formation et d’enseignement*).
 - Via les 🔁 *Feedback Methods* de DasArts ([voir le site dédié](https://cours-web.ch/feedback/)). Vous pouvez par exemple faire une session de 15 minutes qui combine *Affirmative Feedback*, *Perspectives Feedback*, et *Personal Letter*.
