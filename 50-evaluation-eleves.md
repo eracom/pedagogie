@@ -28,7 +28,7 @@ Le Centre de soutien à l'enseignement (CSE) de l'UNIL [propose différents mod�
 
 ![UNIL: Questionnaire qualitatif](img/evaluation-par-eleves/unil-questionnaire-qualitatif.gif)
 
-En PDF:
+Et trois modèles plus détaillés, en format PDF:
 
 - [UNIL - questionnaire d'évaluation de cours](img/evaluation-par-eleves/CSE_questionnaire_COTC.pdf)
 - [UNIL - questionnaire d'évaluation de séminaire](img/evaluation-par-eleves/CSE_questionnaire_seminaire.pdf)
