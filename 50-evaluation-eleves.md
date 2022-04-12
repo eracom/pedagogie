@@ -17,7 +17,8 @@ Source: [Mattes & Danquin (2015)](img/evaluation-par-eleves/p165-feedback-qualit
 ![](img/evaluation-par-eleves/eracom-eval-cours-5q.png)
 
 - Un formulaire simple composé de 5 questions ([télécharger le PDF](img/evaluation-par-eleves/eracom-eval-cours-5q.pdf)) / [Microsoft Forms](https://forms.office.com/Pages/ShareFormPage.aspx?id=CLlqkPkEgEq6nIdaNud7wWhMFfhVGJdGpfZSv8KAoIlUM0pHMURLMkNWN1pVSjBZTjU1VVoyU0hSNy4u&sharetoken=go4wbDOB9zMjWHsv2tO0).
-- Un formulaire très complet, composé de 19 questions ([télécharger le PDF](img/evaluation-par-eleves/eracom-eval-cours-19q.pdf)).
+- Un formulaire plus approfondi, proposé par Andrea Zaccone: ([télécharger le PDF(img/evaluation-par-eleves/eracom-eval-photo-AZaccone.pdf)])
+- Un formulaire détaillé, composé de 19 questions, proposé par Philippe Cordey ([télécharger le PDF](img/evaluation-par-eleves/eracom-eval-cours-19q.pdf)).
 
 ### Formulaires proposés par l'UNIL
 
@@ -26,6 +27,12 @@ Le Centre de soutien à l'enseignement (CSE) de l'UNIL [propose différents mod�
 ![UNIL: Questionnaire de mi-semestre](img/evaluation-par-eleves/unil-questionnaire-mi-semestre.gif)
 
 ![UNIL: Questionnaire qualitatif](img/evaluation-par-eleves/unil-questionnaire-qualitatif.gif)
+
+En PDF:
+
+- [UNIL - questionnaire d'évaluation de cours](img/evaluation-par-eleves/CSE_questionnaire_COTC.pdf)
+- [UNIL - questionnaire d'évaluation de séminaire](img/evaluation-par-eleves/CSE_questionnaire_seminaire.pdf)
+- [UNIL - questionnaire d'évaluation de travaux pratiques](img/evaluation-par-eleves/CSE_questionnaire_TP.pdf)
 
 ### Autres exemples de formulaires
 
