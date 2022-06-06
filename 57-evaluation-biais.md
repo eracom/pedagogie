@@ -23,5 +23,6 @@ Effet du retard scolaire: les élèves redoublants sont systèmatiquement sous-�
 ## Sources
 
 - Marie-Louise Zimmermann-Asta (2019). *Concevoir et pratiquer une évaluation autonomisante*. Editions Chronique Sociale.
-- Marie-Camille Coudert (2018), *[Evaluation sommative/formative/diagnostique](https://mccoudert.wixsite.com/mysite/single-post/2018/03/27/Evaluation-sommativeformativediagnostique)*.
+- Marie-Camille Coudert (24 avril 2018), *[Que savez-vous de l’évaluation ?](https://mccoudert.wixsite.com/mysite/single-post/2018/04/24/que-savez-vous-de-l-%C3%A9valuation)*.
+- Marie-Camille Coudert (27 mars 2018), *[Evaluation sommative/formative/diagnostique](https://mccoudert.wixsite.com/mysite/single-post/2018/03/27/Evaluation-sommativeformativediagnostique)*.
 - Charles Hadji, *[Évaluation : est-on condamné à la perpétuité ?](https://theconversation.com/evaluation-est-on-condamne-a-la-perpetuite-93837)*, The Conversation.
