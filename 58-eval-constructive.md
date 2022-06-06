@@ -12,6 +12,7 @@ Dans son livre, Pasquini développe une réflexion et propose des méthodes pour
 
 <iframe width="100%" style="ratio:16/9; min-height:320px" src="https://www.youtube-nocookie.com/embed/jcRJIb1bG8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 L'utilité des notes a longtemps fait débat dans l'enseignement, mais elle reste une préoccupation importante, pour les enseignant-es comme pour les élèves.
 
 Pour Pasquini, les débats "pour ou contre la note" ont peu d'intérêt. Malgré ses défauts, la note reste "l'information la plus concrète que les élèves puissent obtenir sur les bilans de leurs apprentissages".
