@@ -106,14 +106,14 @@ On peut observer un point commun dans la construction de ces trois épreuves.
 
 Les critères sont divisés en "critères de base" (obligatoires), et "critères de perfectionnement" (ou d'approfondissement).
 
-- Les critères de base sont au nombre de 6, ce qui est extrêmement pratique, car cela permet de les faire correspondre à un barème pour atteindre le seuil de suffisance (4).
-- Les critères de perfectionnement sont au nombre de 4, et donnent le barème allant de 4.5 à 6.
+- Les **critères de base** sont au nombre de 6, ce qui est bien pratique, car cela permet de les faire correspondre à un barème pour atteindre le seuil de suffisance (4).
+- Les **critères de perfectionnement** sont au nombre de 4, et donnent le barème allant de 4.5 à 6.
 
 "Il n'y a pas d'échelle de notation proprement dite, puisque la validation de tous les critères obligatoires donne une note de 4. Les notes et demi-notes supérieures s'obtiennent chaque fois qu'un critère de perfectionnement est validé".
 
 On peut aussi représenter le barème ainsi, en fonction des critères validés :
 
-| Critères de base  | Crtières d'approfondissement | Note |
+| Critères de base   | Critères d'approfondissement | Note |
 |:----------------- |:---- |:---- |
 | Tous              | 4    | 6    |
 | Tous              | 3    | 5,5  |
