@@ -38,7 +38,7 @@ Les problèmes relevés, qui sont des problèmes très fréquents:
 - Phénomène de compensation (qui brouille les informations). Une note suffisante peut être obtenue malgré des lacunes.
 - Absence de critères, ou inconsistence des critères entre eux.
 
-## Pour une note référée aux apprentissages
+## Pour une note référée aux apprentissages
 
 La solution pour éviter ces problèmes: élaborer la note sur la base de critères.
 
@@ -92,9 +92,9 @@ En résumé, les critères doivent être
 - Indépendants (sans recoupement entre eux)
 - Peu nombreux
 
-## Exemples d'épreuves
+## Exemples d'épreuves
 
-Pasquini présente trois exemples d'évaluations qui ont été élaborés selon cette méthode.
+Pasquini présente trois exemples d'épreuves qui ont été élaborés selon sa méthode, par des enseignant-es qu'il a accompagné.
 
 - [épreuve d'expression écrite](img/eval-constructive/criteres-expression-ecrite.jpg).
 - [épreuve de géométrie](img/eval-constructive/epreuve-isometrie.jpg).
