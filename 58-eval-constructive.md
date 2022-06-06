@@ -14,13 +14,13 @@ Dans son livre, Pasquini développe une réflexion et propose des méthodes pour
 
 ***
 
-L'utilité des notes a longtemps fait débat dans l'enseignement, mais elle reste une préoccupation importante, pour les enseignant-es comme pour les élèves.
+L'utilité des notes a longtemps fait débat dans l'enseignement, et elle reste une préoccupation importante, pour les enseignant-es comme pour les élèves.
 
 Pour Pasquini, les débats "pour ou contre la note" ont peu d'intérêt. Malgré ses défauts, la note reste "l'information la plus concrète que les élèves puissent obtenir sur les bilans de leurs apprentissages".
 
-Souvent, le problème n'est pas la note en soi, mais les incohérences de ses modes de construction. Pasquini propose de changer cela, en trouvant le moyen de mieux référer la note à l'apprentissage. La note devra s'inscrire dans un raisonnement centré sur les apprentissages.
+Souvent, le problème n'est pas la note en soi, mais les incohérences de ses modes de construction. Pasquini propose de changer cela, en trouvant le moyen de mieux *référer la note à l'apprentissage*.
 
-Idéalement, la note ne doit pas servir à la sélection, mais répondre à trois objectifs:
+Ainsi pensée, la note remplira trois fonctions:
 
 - Certifier les apprentissages considérés comme importants.
 - Fournir des rétroactions formatives aux élèves.
@@ -104,12 +104,35 @@ Pasquini présente trois exemples d'évaluations qui ont été élaborés selon 
 
 On peut observer un point commun dans la construction de ces trois épreuves.
 
-Les critères sont divisés en "critères de base" (obligatoires), et "critères de perfectionnement".
+Les critères sont divisés en "critères de base" (obligatoires), et "critères de perfectionnement" (ou d'approfondissement).
 
 - Les critères de base sont au nombre de 6, ce qui est extrêmement pratique, car cela permet de les faire correspondre à un barème pour atteindre le seuil de suffisance (4).
 - Les critères de perfectionnement sont au nombre de 4, et donnent le barème allant de 4.5 à 6.
 
+"Il n'y a pas d'échelle de notation proprement dite, puisque la validation de tous les critères obligatoires donne une note de 4. Les notes et demi-notes supérieures s'obtiennent chaque fois qu'un critère de perfectionnement est validé".
+
+On peut aussi représenter le barème ainsi, en fonction des critères validés :
+
+| Critères de base  | Crtières d'approfondissement | Note |
+|:----------------- |:---- |:---- |
+| Tous              | 4    | 6    |
+| Tous              | 3    | 5,5  |
+| Tous              | 2    | 5    |
+| Tous              | 1    | 4,5  |
+| Tous              | 0    | 4    |
+| 5/6 Critères      |      | 3,5  |
+| 4/6 Critères      |      | 3    |
+| 3/6 Critères      |      | 2,5  |
+| 2/6 Critères      |      | 2    |
+
+
 Les critères des épreuves de géométrie (isométries) et de géographie (les énergies) sont reliés à des objectifs bien définis, en lien avec le curriculum.
+
+## Pas de critères universels
+
+La construction des critères est un travail important que seul l'enseignant-e peut réaliser: il est impossible de fournir une "banque de critères" qu'on mettrait à disposition.
+
+> Imposer les mêmes critères à tous reviendrait à imposer un modèle didactique unique, ce qui est impossible [...]; connaîre les critères des autres ne signifie pas qu'on se les soit appropriés (Georgette Nunziati, 1990)
 
 ## Ressources
 
