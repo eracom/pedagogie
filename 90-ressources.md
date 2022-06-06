@@ -20,6 +20,13 @@ Lien: [designbriefs.ch](https://designbriefs.ch/)
 
 ## Podcasts 🎙
 
+En français:
+
+- [Nipedu](https://nipcast.com/category/nipedu/)
+- [S'élever ensemble](https://anchor.fm/mathias-lavaud) - Des rencontres avec des acteurs du monde de l'éducation, de l'école et de l'enfance.
+
+En anglais:
+
 - [The Motivated Classroom](https://www.liamprinter.com/podcast.html) : A weekly podcast hosted by Liam Printer talking all things education, language teaching, motivation and engagement.
 - [The Learning Scientists Podcast](https://www.learningscientists.org/podcast-episodes) : "A podcast for teachers, students, and parents about evidence-based practice and learning."
 - [DesignEduToday](https://designedu.today/) : "podcast series discussing the necessary competencies to be a successful designer in a contemporary, screen-based interactive world."
