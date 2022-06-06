@@ -3,7 +3,7 @@ title: Pédagogie
 description: Ressources en pédagogie.
 lang: fr-FR
 robots: noindex, nofollow
-markdown: GFM
+# markdown: GFM
 chapters:
  - title: Infos IMD
    url: https://code.eracom-pedagogique.ch/infos-profs-imd/
