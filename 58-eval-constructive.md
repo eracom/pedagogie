@@ -102,16 +102,16 @@ Pasquini présente trois exemples d'épreuves qui ont été élaborés selon sa 
 
 ![Critères d'une épreuve de géographie](img/eval-constructive/criteres-geographie.jpg)
 
-On peut observer un point commun dans la construction de ces trois épreuves.
+On peut observer des points commun dans la construction de ces trois épreuves.
+
+Les critères des épreuves (de géométrie et de géographie) sont reliés à des objectifs bien définis, en lien avec le curriculum.
 
 Les critères sont divisés en "critères de base" (obligatoires), et "critères de perfectionnement" (ou d'approfondissement).
 
-- Les **critères de base** sont au nombre de 6, ce qui est bien pratique, car cela permet de les faire correspondre à un barème pour atteindre le seuil de suffisance (4).
-- Les **critères de perfectionnement** sont au nombre de 4, et donnent le barème allant de 4.5 à 6.
+- Les **critères de base** doivent tous être validés pour atteindre le seuil de suffisance (4). "Il n'y a pas d'échelle de notation proprement dite, puisque la validation de tous les critères obligatoires donne une note de 4."
+- Les **critères de perfectionnement** donnent les notes et demi-notes supérieures.
 
-"Il n'y a pas d'échelle de notation proprement dite, puisque la validation de tous les critères obligatoires donne une note de 4. Les notes et demi-notes supérieures s'obtiennent chaque fois qu'un critère de perfectionnement est validé".
-
-On peut aussi représenter le barème ainsi, en fonction des critères validés :
+On peut donc représenter le barème ainsi, en fonction des critères validés :
 
 | Critères de base   | Critères d'approfondissement | Note |
 |:----------------- |:---- |:---- |
@@ -120,13 +120,11 @@ On peut aussi représenter le barème ainsi, en fonction des critères validés 
 | Tous              | 2    | 5    |
 | Tous              | 1    | 4,5  |
 | Tous              | 0    | 4    |
-| 5/6 Critères      |      | 3,5  |
-| 4/6 Critères      |      | 3    |
-| 3/6 Critères      |      | 2,5  |
-| 2/6 Critères      |      | 2    |
+| -1 critère        |      | 3,5  |
+| -2 critères       |      | 3    |
+| -3 critères       |      | 2,5  |
+| -4 critères       |      | 2    |
 
-
-Les critères des épreuves de géométrie (isométries) et de géographie (les énergies) sont reliés à des objectifs bien définis, en lien avec le curriculum.
 
 ## Pas de critères universels
 
