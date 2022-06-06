@@ -19,3 +19,5 @@ Quelques éléments de réponse sont apportés par le **Plan de formation** (*Bi
 - 3.7 - **Conscience et action écologiques**.
 
 La notion d'**implication** n'apparaît pas dans le texte, mais elle est liée à "Assumer la responsabilité", "Aptitude à communiquer", "Savoir travailler en équipe", "Manières et comportement".
+
+Un point important: si vous évaluez des compétences sociales, les enseignez-vous? Comment enseignez-vous l'implication?
