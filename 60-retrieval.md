@@ -4,11 +4,16 @@ title: Stratégie - Remémoration
 permalink: retrieval.html
 ---
 
-Retrieval practice
-
 ## Stratégies d'apprentissage efficaces
 
-Selon Jones (2019), et Sumeracki & Kaminske (2019), la recherche pédagogique a mis en évidence six stratégies d’apprentissage particulièrement efficaces: *Spacing* (espacer les séances d’apprentissage dans le temps), *Interleaving* (mélanger différents types de problèmes), *Retrieval practice* (les pratiques menant à un effort de mémorisation) *Elaboration* (le fait de relier différents éléments de savoir, en posant des questions de sens, telles que “comment”, “pourquoi”), les *exemples concrets* ainsi que le “*Dual Coding*” (le fait d’utiliser plusieurs supports pour enseigner un même concept : texte, image, vidéo…).
+Selon Jones (2019), et Sumeracki & Kaminske (2019), la recherche pédagogique a mis en évidence six stratégies d’apprentissage particulièrement efficaces: 
+
+- *Spacing* (espacer les séances d’apprentissage dans le temps).
+- *Interleaving* (mélanger différents types de problèmes dans une même séance d'apprentissage).
+- *Retrieval practice* (les pratiques menant à un effort de mémorisation).
+- *Elaboration* (le fait de relier différents éléments de savoir, en posant des questions de sens, telles que “comment”, “pourquoi”).
+- les *exemples concrets*.
+- le “*Dual Coding*” (le fait d’utiliser plusieurs supports pour enseigner un même concept : texte, image, vidéo…).
 
 ### Retrieval Practice
 
