@@ -93,7 +93,7 @@ En résumé, les critères doivent être
 
 ## Exemples d'épreuves
 
-Pasquini présente trois exemples d'épreuves qui ont été élaborés selon sa méthode, par des enseignant-es qu'il a accompagné.
+Pasquini présente trois exemples d'épreuves qui ont été élaborés selon ce modèle, par des enseignant-es qu'il a accompagné.
 
 - [épreuve d'expression écrite](img/eval-constructive/criteres-expression-ecrite.jpg).
 - [épreuve de géométrie](img/eval-constructive/epreuve-isometrie.jpg).
