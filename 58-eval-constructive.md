@@ -101,7 +101,7 @@ Pasquini présente trois exemples d'épreuves qui ont été élaborés selon ce 
 
 ![Critères d'une épreuve de géographie](img/eval-constructive/criteres-geographie.jpg)
 
-On peut observer des points commun dans la construction de ces trois épreuves.
+On peut observer des points communs dans la construction de ces trois épreuves.
 
 Les critères des épreuves (de géométrie et de géographie) sont reliés à des objectifs bien définis, en lien avec le curriculum.
 
