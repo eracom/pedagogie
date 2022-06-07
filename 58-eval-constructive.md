@@ -61,13 +61,12 @@ Pasquini définit quatre manières de construire des critères:
 #### 1) Critères centrés sur les tâches.
 
 Problème de cette approche:  
-On évolue dans un niveau de complexité bas.  
+On évolue dans un niveau de complexité bas. L'élève est poussé à respecter la consigne, de suivre une procédure, plutôt que d'analyser un problème et d'avoir une réflexion autonome.  
 De tels critères appellent l'utilisation de points, de manière mathématique.  
-Il s'agit de respecter la consigne, de suivre une procédure, plutôt que d'analyser un problème.
 
 #### 2) Critères analytiques
 
-La tâche à accomplir est disséquée (par exemple: "cohérence de l'introduction"): on perd la vision d'ensemble du travail.  
+La tâche à accomplir est "disséquée" (par exemple: "cohérence de l'introduction"): on perd la vision d'ensemble du travail.  
 Le phénomène de compensation va opérer.
 
 #### 3) Critères holistiques 
@@ -76,7 +75,7 @@ Exemple de critère holistique : "cohérence" d'une production.
 Cela donne l'avantage d'un jugement plus général.  
 Les critères requièrent une description verbale des caractéristiques essentielles.  
 Le niveau de généralité permet peu de rétroaction.  
-À cause de ce caractère général, des biais peuvent apparaître lors de la correction.
+À cause de ce caractère général, des biais peuvent apparaître lors de la correction. Voir: [Biais d'évaluation](biais-evaluation.html)
 
 #### 4) Critères holistiques élargis
 
