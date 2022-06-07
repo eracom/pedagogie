@@ -40,11 +40,11 @@ Les problèmes relevés, qui sont des problèmes très fréquents:
 
 ## Pour une note référée aux apprentissages
 
-La solution pour éviter ces problèmes: élaborer la note sur la base de critères.
+La solution pour éviter ces problèmes: élaborer la note **sur la base de critères**.
 
-Un avantage immédiat: le fait de baser la note sur des critères, plutôt que des points, permet de formuler des rétroactions.
+Un avantage immédiat: le fait de baser la note sur des critères, plutôt qu'une addition de points, permet de "formuler des rétroactions" (= donner un feedback précis à l'élève). Indiquer quels critères ne sont pas remplis, cela permet une "prise d'information qualitative".
 
-"Il est plus constructif de dire à l'élève sur quel critère il a échoué, que de lui décompter le nombre de points qui ont manqué".
+> Il est plus constructif de dire à l'élève **sur quel critère** il a échoué, que de lui décompter le nombre de points qui ont manqué.
 
 Ce qu'on entend par "notation référée aux apprentissages":
 
