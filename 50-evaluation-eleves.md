@@ -34,7 +34,20 @@ Et trois modèles plus détaillés, en format PDF:
 - [UNIL - questionnaire d'évaluation de séminaire](img/evaluation-par-eleves/CSE_questionnaire_seminaire.pdf)
 - [UNIL - questionnaire d'évaluation de travaux pratiques](img/evaluation-par-eleves/CSE_questionnaire_TP.pdf)
 
-### Autres exemples de formulaires
+### Questionnaire d'évaluation d'Irving
+
+Le questionnaire d'évaluation de l'enseignement d'Irving (*The Irving Student Evaluation of Accomplished Teaching Scale*) est présentée en annexe dans un livre de Johne Hattie (2017). C'est un document développé par Earl Irving, chercheur à l'Université d'Auckland, pour évaluer la qualité de l'enseignement en mathématiques. C'est une liste de 24 questions, qui évaluent:
+
+- La perception des élèves quant à votre engagement envers leur apprentissage.
+- L'efficacité de votre enseignement.
+- Le niveau d'engagement des élèves envers le programme.
+- La façon dont vous reliez l'apprentissage au monde réel.
+
+- [Lien vers le questionnaire d'Irving](img/evaluation-par-eleves/questionnaire-irving.jpg)
+- [Un questionnaire en ligne Microsoft Forms](https://forms.office.com/Pages/ShareFormPage.aspx?id=CLlqkPkEgEq6nIdaNud7wWhMFfhVGJdGpfZSv8KAoIlUMzBHRjE5REtQVVA2SVM2V1BCM0ExQkY1Ni4u&sharetoken=hAg6vXydxGxqwz808tR1) qui intègre quelques éléments d'Irving.
+
+
+### Autres exemples de questionnaires
 
 Un questionnaire proposé par Eric Mazur (📚*Peer Instruction*, 2014). C’est un questionnaire très ouvert que l’auteur soumet à sa classe “après environ quatre semaines de cours”:
 
@@ -65,6 +78,9 @@ Le feedback des élèves ne doit pas obligatoirement passer par un **questionnai
 
 ## Références 📚
 
+- Hattie, J. (2017). *L’apprentissage visible pour les enseignants*, Presses de l’Université du Québec. (371 HAT)
 - Hattie, J. & Clarke, S. (2019). *Visible Learning: Feedback*. Routledge.
 - Mattes, W. & Danquin, R. (2015). *52 méthodes : Pratiques pour enseigner*. Schöningh Verlag, Réseau Canopé.
 - Mazur, E. (2014). *Peer Instruction. Une méthode éprouvée d’enseignement interactif*. Presses polytechniques et universitaires romandes.
+
+Voir aussi: [Livres pédagogie](https://code.eracom-pedagogique.ch/livres-imd/pedagogie.html)
