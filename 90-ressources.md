@@ -22,7 +22,7 @@ Lien: [designbriefs.ch](https://designbriefs.ch/)
 
 En français 🇫🇷 :
 
-- [Nipedu](https://nipcast.com/category/nipedu/)
+- [Nipedu](https://nipcast.com/category/nipedu/) - Podcast qui parle école, éducation, numérique et bien plus. Par Régis Forgione, Fabien Hobart et Jean-Philippe Maitre.
 - [S'élever ensemble](https://anchor.fm/mathias-lavaud) - Des rencontres avec des acteurs du monde de l'éducation, de l'école et de l'enfance.
 
 En anglais 🇬🇧 :
