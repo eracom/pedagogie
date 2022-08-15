@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Concevoir des questions
-permalink: concevoir-questions.html
+title: Concevoir des QCM
+permalink: concevoir-questions-qcm.html
 ---
 
 ### Comment concevoir de bonnes questions
