@@ -129,7 +129,7 @@ On peut donc représenter le barème ainsi, en fonction des critères validés :
 
 La construction des critères est un travail important que seul l'enseignant-e peut réaliser: il est impossible de fournir une "banque de critères" qu'on mettrait à disposition.
 
-> Imposer les mêmes critères à tous reviendrait à imposer un modèle didactique unique, ce qui est impossible [...]; connaîre les critères des autres ne signifie pas qu'on se les soit appropriés (Georgette Nunziati, 1990)
+> Imposer les mêmes critères à tous reviendrait à imposer un modèle didactique unique, ce qui est impossible (...); connaître les critères des autres ne signifie pas qu'on se les soit appropriés (Georgette Nunziati, 1990)
 
 ## Ressources
 
