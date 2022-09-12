@@ -8,17 +8,23 @@ permalink: biais-evaluation.html
 
 Sur les biais dans l'évaluation, voir Zimmermann-Asta (2019), p.53-58
 
-**Effet de halo:** le professeur est sensible à la présentation de la copie (lecture facile, propreté, texte aéré, précision des graphiques, etc)
+### Biais techniques
 
 **Effet d'ordre:** la place occupée par la copie dans le paquet: les copies corrigées en premier, sauf la première, sont en général surévaluées.
 
-**Effet de contraste:** la copie qui suist une très bonne copie est sous-évaluée. Si la copie est mauvaise, celle qui suit est surévaluée.
+**Effet de contraste:** la copie qui suit une très bonne copie est sous-évaluée. Si la copie est mauvaise, celle qui suit est surévaluée.
 
-**Effet Pygmalion:** amélioration en fonction du degré de croyance en sa réussite venant de l'enseignant.
+**Effet de halo:** le professeur est sensible à la présentation de la copie (lecture facile, propreté, texte aéré, précision des graphiques, etc).
+
+### Biais psycho-sociaux
+
+**Effet Pygmalion:** amélioration en fonction du degré de croyance en sa réussite venant de l'enseignant. Les bons élèves (= ceux que l’enseignant juge bon) performent mieux et sont mieux notés, simplement à cause du regard de l’évaluateur (et non leurs performances propres). Cet effet a été démontré en 1968 par Rosenthal et Jacobs (voir [Wikipédia](https://fr.wikipedia.org/wiki/Effet_Pygmalion)).
 
 **Effet Golem:** les attentes moins élevées placées sur un individu le conduisent à une moins bonne performance.
 
 **Effet du retard scolaire:** les élèves redoublants sont systèmatiquement sous-évalués.
+
+Ces biais ont été démontrés par de nombreuses recherches en psychologie et sociologie de l'éducation. Ces éléments doivent être connus des formateurs-trices, afin qu'iels puissent faire en sorte de minimiser cet impact des biais de l'évaluation lors de l'attribution des notes à leurs apprenants.
 
 ## Sources
 
