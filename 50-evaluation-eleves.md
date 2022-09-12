@@ -36,7 +36,7 @@ Et trois modèles plus détaillés, en format PDF:
 
 ### Questionnaire d'évaluation d'Irving
 
-Le questionnaire d'évaluation de l'enseignement d'Irving (*The Irving Student Evaluation of Accomplished Teaching Scale*) est présentée en annexe dans un livre de Johne Hattie (2017). C'est un document développé par Earl Irving, chercheur à l'Université d'Auckland, pour évaluer la qualité de l'enseignement en mathématiques. C'est une liste de 24 questions, qui évaluent:
+Le questionnaire d'évaluation de l'enseignement d'Irving (*The Irving Student Evaluation of Accomplished Teaching Scale*) est présenté en annexe dans un livre de Johne Hattie (*L’apprentissage visible pour les enseignants*, 2017). C'est un document développé par Earl Irving, chercheur à l'Université d'Auckland, pour évaluer la qualité de l'enseignement en mathématiques. Il s'agit d'une liste de 24 questions qui évaluent:
 
 - La perception des élèves quant à votre engagement envers leur apprentissage.
 - L'efficacité de votre enseignement.
