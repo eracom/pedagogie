@@ -133,6 +133,6 @@ La construction des critères est un travail important que seul l'enseignant-e p
 
 ## Ressources
 
-Ceci est un résumé du livre, que vous trouvez en bibliothèque Eracom-Epsic, à la cote 371 - voir [Livres Pédagogie](https://code.eracom-pedagogique.ch/livres-imd/pedagogie.html).
+Ceci est un résumé du livre *Quand la note devient constructive*, que vous trouvez en bibliothèque Eracom-Epsic, à la cote 371 - voir [Livres Pédagogie](https://code.eracom-pedagogique.ch/livres-imd/pedagogie.html).
 
 🌐 [Lien OneDrive pour voir quelques extraits](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ErR2tA1EpWFJpyrRBzLHHuoBAmSGA3aZ2uqNjoDiMkWEiw?e=jFE9th).
