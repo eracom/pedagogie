@@ -30,7 +30,7 @@ C’est notamment pour cela qu’on conseille de corriger les copies d’examen 
 
 ## La constante macabre
 
-On nomme "constante macabre" la tendance insconsiente, pour l'évaluateur, à reproduire une "courbe de Gauss" dans la répartition des notes.
+On nomme "constante macabre" la tendance insconsciente, pour l'évaluateur, à reproduire une "courbe de Gauss" dans la répartition des notes.
 
 ## Sources
 
