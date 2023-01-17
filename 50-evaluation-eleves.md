@@ -72,7 +72,7 @@ Un autre exemple cité dans le même livre (p. 130), où l'enseignant-e pose deu
 
 Le feedback des élèves ne doit pas obligatoirement passer par un **questionnaire écrit**. Il est possible de recourir à un dispositif de **feedback de groupe**. Exemples:
 
-- Via un *Grupo Operativo* (méthode proposée par Jean-Luc Zimmermann dans *Gérer un groupe de formation et d’enseignement*).
+- Via un *Grupo Operativo* (méthode proposée par J.-L. Zimmermann dans *Gérer un groupe de formation et d’enseignement*, 2016).
 - Via les 🔁 *Feedback Methods* de DasArts ([voir le site dédié](https://cours-web.ch/feedback/)). Vous pouvez par exemple faire une session de 10 à 15 minutes qui combine *Affirmative Feedback*, *Perspectives Feedback*, et *Personal Letter*.
 - Via un format de *Rétrospective Agile* ([voir site dédié](https://cours-web.ch/agile/)).
 
@@ -82,5 +82,6 @@ Le feedback des élèves ne doit pas obligatoirement passer par un **questionnai
 - Hattie, J. & Clarke, S. (2019). *Visible Learning: Feedback*. Routledge.
 - Mattes, W. & Danquin, R. (2015). *52 méthodes : Pratiques pour enseigner*. Schöningh Verlag, Réseau Canopé.
 - Mazur, E. (2014). *Peer Instruction. Une méthode éprouvée d’enseignement interactif*. Presses polytechniques et universitaires romandes.
+- Zimmermann, J.-L. (2016). *Gérer un groupe de formation et d'enseignement*. Chronique Sociale.
 
 Voir aussi: [Livres pédagogie](https://code.eracom-pedagogique.ch/livres-imd/pedagogie.html)
