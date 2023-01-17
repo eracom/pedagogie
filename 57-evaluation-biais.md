@@ -20,7 +20,7 @@ C’est notamment pour cela qu’on conseille de corriger les copies d’examen 
 
 ### Biais psycho-sociaux
 
-**Effet Pygmalion:** amélioration en fonction du degré de croyance en sa réussite venant de l'enseignant. Les bons élèves (= ceux que l’enseignant juge bon) performent mieux et sont mieux notés, simplement à cause du regard de l’évaluateur (et non leurs performances propres). Cet effet a été démontré en 1968 par Rosenthal et Jacobs (voir [Wikipédia](https://fr.wikipedia.org/wiki/Effet_Pygmalion)).
+**Effet Pygmalion:** amélioration en fonction du degré de croyance en sa réussite venant de l'enseignant. Les bons élèves (= ceux que l’enseignant juge bons) performent mieux et sont mieux notés, simplement à cause du regard de l’évaluateur (et non leurs performances propres). Cet effet a été démontré en 1968 par Rosenthal et Jacobs (voir [Wikipédia](https://fr.wikipedia.org/wiki/Effet_Pygmalion)).
 
 **Effet Golem:** les attentes moins élevées placées sur un individu le conduisent à une moins bonne performance.
 
