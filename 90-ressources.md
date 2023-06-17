@@ -4,15 +4,17 @@ title: Ressources
 permalink: ressources.html
 ---
 
+## Groupes de discussion
+
+- [Groupe Café Pédagogique](https://signal.group/#CjQKIBbvIUM1ZZxssEvuYiIHHZR2kkvHbnFvVmir_ZBmBP5DEhAQgbRwVtniYMAqbRmxHqLf) sur Signal. Ce groupe a été créé pendant la journée pédagogique Eracom du 6 avril 2022, dans le but de partager les prises de notes et autres feedbacks.
+- [Groupe Typo-News](https://signal.group/#CjQKINqRYSkhwC30lZkXaRnGkEzjrk1khB4vQho7i18D_w7gEhCubZL7-BJQymgUsmRvFQ86) sur Signal. Veille technologique sur le monde des fontes.
+
 ## Livres 📚
 
 Voir: [Livres pédagogie](https://code.eracom-pedagogique.ch/livres-imd/pedagogie.html)
 
 ## Liens 🌐
 
-- **Groupe Signal "Discussion Pédagogique"** :  ce groupe a été créé pendant la journée pédagogique du 6 avril 2022, dans le but de partager les prises de notes et autres feedbacks. C’est un canal informel et non-officiel. Pour le rejoindre:  
-[Lien du groupe Signal](https://signal.group/#CjQKIBbvIUM1ZZxssEvuYiIHHZR2kkvHbnFvVmir_ZBmBP5DEhAQgbRwVtniYMAqbRmxHqLf)
-- [instagram.com/id391_481/](https://www.instagram.com/id391_481/) - « fiches de révisions » au format Instagram, conçues par les élèves ID391/ID481, dans le cadre du cours Audiovisuel Révision sous la supervision de Philippe Cordey.
 - **Méthodes de feedback de DasArts** : une méthode de *peer learning* développée au DAS Master of Theatre à Amsterdam. Ce sont des formats simples à mettre en œuvre, qui peuvent être utilisés dans toutes les branches créatives, pour améliorer la pratique du feedback entre élèves.  
 Lien: [cours-web.ch/feedback/](https://cours-web.ch/feedback/)
 - **Design Briefs** : Site collectant des “briefs” et exercices pour l’enseignement du design. Couvre diverses matières telles que: [Design d’interfaces](https://designbriefs.ch/keyword/interface-design/), [Photo](https://designbriefs.ch/keyword/photography/), [Vidéo](https://designbriefs.ch/keyword/video/), [Son](https://designbriefs.ch/keyword/sound/)...  
