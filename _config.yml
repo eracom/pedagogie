@@ -13,9 +13,11 @@ chapters:
    url: https://code.eracom-pedagogique.ch/livres-imd/
  - title: Fontes
    url: https://code.eracom-pedagogique.ch/fontes-imd/
+ - title: Teams
+   url: https://code.eracom-pedagogique.ch/teams-enseignement/
 # footer
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>
-  <li>2021</li></ul>
+  <li>2021-2023</li></ul>
 footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/eracom/pedagogie">Lien Github</a></li></ul>
 footer_col_3: Ressources en pédagogie.
