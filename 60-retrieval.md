@@ -17,7 +17,7 @@ Selon Jones (2019), et Sumeracki & Kaminske (2019), la recherche pédagogique a 
 
 ### Retrieval Practice
 
-La “Retrieval Practice” (pratique de *remémoration*) est décrite, notamment par Kate Jones (2019), comme une méthode pédagogique consistant à “faire remonter” dans la mémoire de travail des notions, termes et concepts abordés précédemment (par exemple lors de la dernière leçon). “En se remémorant, on consolide le souvenir” selon Chamberland (2015). 
+La “Retrieval Practice” (pratique de *remémoration*) est décrite, notamment par Jones (2019), comme une méthode pédagogique consistant à “faire remonter” dans la mémoire de travail des notions, termes et concepts abordés précédemment (par exemple lors de la dernière leçon). “En se remémorant, on consolide le souvenir” selon Chamberland (2015). 
 
 Plutôt que relire les informations de manière passive, faites ressortir les informations de votre cerveau en faisant un **effort mental**. Le meilleur moyen est de se questionner: cela oblige votre 🧠 cerveau à retrouver l’information, ce qui consolide les connexions neurales et renforce la mémorisation.
 
@@ -29,7 +29,7 @@ Exemple: beaucoup de personnes pensent qu’il est utile de relire un texte plus
 
 Cela oblige votre cerveau à accéder à l’information que vous avez “enregistrée”, d’où le terme “retrieval practice”.
 
-Activités proposées par Kate Jones:
+Activités proposées par K. Jones:
 
 - Discussion entre élèves
 - Brain dumps
