@@ -29,7 +29,7 @@ Exemple: beaucoup de personnes pensent qu’il est utile de relire un texte plus
 
 Cela oblige votre cerveau à accéder à l’information que vous avez “enregistrée”, d’où le terme “retrieval practice”.
 
-Activités proposées par K. Jones:
+### Activités proposées par K. Jones:
 
 - Discussion entre élèves
 - Brain dumps
