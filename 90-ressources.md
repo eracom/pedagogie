@@ -11,7 +11,9 @@ permalink: ressources.html
 
 ## Livres 📚
 
-Voir: [Livres pédagogie](https://code.eracom-pedagogique.ch/livres-imd/pedagogie.html)
+- [Livres pédagogie](https://code.eracom-pedagogique.ch/livres-imd/pedagogie.html) : liste de livres en bibliothèque Eracom-Epsic.
+- [Embedding Formative Assessment](https://ms-studio.github.io/embedding-formative-assessment/) : fiche de lecture du livre de Wiliam, D. et Leahy, S. (2015).
+- [Meredith Davis - Teaching Design](https://ms-studio.github.io/lectures-pedagogie/davis-teaching-design.html) : fiche de lecture du livre de M. Davis (2017)
 
 ## Liens 🌐
 
