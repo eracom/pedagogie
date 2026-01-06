@@ -33,7 +33,7 @@ Cela oblige votre cerveau à accéder à l’information que vous avez “enregi
 
 - Discussion entre élèves
 - Brain dumps
-- Picture prompt: expliquer, avec vos mots, en quoi cette imgae est liée au sujet.
+- Picture prompt: expliquer, avec vos mots, en quoi cette image est liée au sujet.
 - Quiz, Quiz, Trade: questions/réponses
 - Cops and Robbers
 - Walkabout Bingo
